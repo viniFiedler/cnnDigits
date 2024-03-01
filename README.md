@@ -64,7 +64,7 @@ Siga-me no LinkedIn
 Para uma explicação mais detalhada sobre este projeto confira meu post no Medium.
 
 Leia o post no Medium
-<a href="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    <img src="https://medium.com/@viniFiedler/cnns-uma-aplica%C3%A7%C3%A3o-visual-ca9a20728c3a"
+<a href="https://medium.com/@viniFiedler/cnns-uma-aplica%C3%A7%C3%A3o-visual-ca9a20728c3a">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
          alt="Gitter">
   </a>
