@@ -64,7 +64,7 @@ Siga-me no LinkedIn
 Para uma explicação mais detalhada sobre este projeto confira meu post no Medium.
 
 Leia o post no Medium
-<a href="https://badge.fury.io/js/electron-markdownify">
+<a href="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     <img src="https://medium.com/@viniFiedler/cnns-uma-aplica%C3%A7%C3%A3o-visual-ca9a20728c3a"
          alt="Gitter">
   </a>
